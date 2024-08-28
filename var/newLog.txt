@@ -1,0 +1,14 @@
+Information: Program[0]
+	Hello World! Logging is fun.
+Error: Program[0]
+	error
+Information: Program[0]
+	Hello World! Logging is fun.
+Information: Program[0]
+	Hello World! Logging is fun.
+Error: Program[0]
+	error
+Information: Program[0]
+	Hello World! Logging is fun.
+Западный административный округ
+20

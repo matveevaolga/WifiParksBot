@@ -1,0 +1,776 @@
+Information: BotRunner
+	Start listening for @WifiParksBot at 21.03.2024 22:51:44
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 21.03.2024 22:52:03
+Warning: AsyncMenuFor1257320586
+	Пользователь 1257320586 не загрузил файл перед запросом на скачивание или обработку в 21.03.2024 22:52:06
+Warning: AsyncMenuFor1257320586
+	Пользователь 1257320586 не загрузил файл перед запросом на скачивание или обработку в 21.03.2024 22:52:09
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 21.03.2024 22:52:12
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery UploadCsv от пользователя 1257320586 в 21.03.2024 22:52:13
+Information: AsyncMenuFor1257320586
+	Получен документ от пользователя 1257320586 в 21.03.2024 22:52:31
+Information: AsyncMenuFor1257320586
+	Считаны данные из csv файла от пользователя 1257320586 в 21.03.2024 22:52:32
+Information: AsyncMenuFor1257320586
+	Получена команда /sort от пользователя 1257320586 в 21.03.2024 22:52:52
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery NameSort от пользователя 1257320586 в 21.03.2024 22:53:06
+Information: AsyncMenuFor1257320586
+	Произошла сортировка по полю Name файла пользователя 1257320586 в 21.03.2024 22:53:07
+Information: AsyncMenuFor1257320586
+	Получена команда /filter от пользователя 1257320586 в 21.03.2024 22:53:12
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery CoverageAreaFilter от пользователя 1257320586 в 21.03.2024 22:53:13
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:53:17
+Information: AsyncMenuFor1257320586
+	Пользователь 1257320586 ответил на сообщение 3074 данными для фильтации в 21.03.2024 22:53:17
+Information: AsyncMenuFor1257320586
+	Произошла фильтрация по полю CoverageArea файла пользователя 1257320586 в 21.03.2024 22:53:18
+Warning: BotRunner
+	Получено сообщение необрабатываемого типа от 1257320586 в 21.03.2024 22:53:26
+Warning: BotRunner
+	Получено сообщение необрабатываемого типа от 1257320586 в 21.03.2024 22:53:35
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:53:59
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:54:02
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:54:05
+Information: AsyncMenuFor1257320586
+	Получена команда /filter от пользователя 1257320586 в 21.03.2024 22:54:08
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery ParkNameFilter от пользователя 1257320586 в 21.03.2024 22:54:10
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:54:14
+Information: AsyncMenuFor1257320586
+	Пользователь 1257320586 ответил на сообщение 3090 данными для фильтации в 21.03.2024 22:54:14
+Information: AsyncMenuFor1257320586
+	Произошла фильтрация по полю ParkName файла пользователя 1257320586 в 21.03.2024 22:54:14
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 21.03.2024 22:54:20
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery UploadCsv от пользователя 1257320586 в 21.03.2024 22:54:21
+Information: AsyncMenuFor1257320586
+	Получен документ от пользователя 1257320586 в 21.03.2024 22:54:44
+Information: AsyncMenuFor1257320586
+	Считаны данные из csv файла от пользователя 1257320586 в 21.03.2024 22:54:49
+Information: AsyncMenuFor1257320586
+	Получена команда /filter от пользователя 1257320586 в 21.03.2024 22:54:53
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery CoverageAreaFilter от пользователя 1257320586 в 21.03.2024 22:54:56
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:55:02
+Information: AsyncMenuFor1257320586
+	Пользователь 1257320586 ответил на сообщение 3101 данными для фильтации в 21.03.2024 22:55:02
+Information: AsyncMenuFor1257320586
+	Произошла фильтрация по полю CoverageArea файла пользователя 1257320586 в 21.03.2024 22:55:02
+Information: AsyncMenuFor1257320586
+	Получена команда /sort от пользователя 1257320586 в 21.03.2024 22:55:05
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery NameSort от пользователя 1257320586 в 21.03.2024 22:55:10
+Information: AsyncMenuFor1257320586
+	Произошла сортировка по полю Name файла пользователя 1257320586 в 21.03.2024 22:55:10
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery CoverageAreaSort от пользователя 1257320586 в 21.03.2024 22:55:13
+Information: AsyncMenuFor1257320586
+	Произошла сортировка по полю CoverageArea файла пользователя 1257320586 в 21.03.2024 22:55:13
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery CoverageAreaFilter от пользователя 1257320586 в 21.03.2024 22:55:14
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:55:18
+Information: AsyncMenuFor1257320586
+	Пользователь 1257320586 ответил на сообщение 3108 данными для фильтации в 21.03.2024 22:55:18
+Information: AsyncMenuFor1257320586
+	Произошла фильтрация по полю CoverageArea файла пользователя 1257320586 в 21.03.2024 22:55:18
+Information: AsyncMenuFor1257320586
+	Получена команда /download от пользователя 1257320586 в 21.03.2024 22:55:24
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery DownloadJson от пользователя 1257320586 в 21.03.2024 22:55:25
+Information: AsyncMenuFor1257320586
+	Загрузка обработанного json файла для пользователя 1257320586 прошла успешно
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 21.03.2024 22:55:52
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery UploadJson от пользователя 1257320586 в 21.03.2024 22:55:53
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 21.03.2024 22:56:02
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery UploadJson от пользователя 1257320586 в 21.03.2024 22:56:04
+Information: AsyncMenuFor1257320586
+	Получен документ от пользователя 1257320586 в 21.03.2024 22:56:23
+Information: AsyncMenuFor1257320586
+	Считаны данные из json файла от пользователя 1257320586 в 21.03.2024 22:56:25
+Information: AsyncMenuFor1257320586
+	Получена команда /filter от пользователя 1257320586 в 21.03.2024 22:56:45
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery AdmAndCoverageAreaFilter от пользователя 1257320586 в 21.03.2024 22:56:46
+Information: AsyncMenuFor1257320586
+	Получено текстовое сообщение от пользователя 1257320586 в 21.03.2024 22:56:55
+Information: AsyncMenuFor1257320586
+	Пользователь 1257320586 ответил на сообщение 3126 данными для фильтации в 21.03.2024 22:56:55
+Information: AsyncMenuFor1257320586
+	Произошла фильтрация по полям AdmArea и CoverageArea файла пользователя 1257320586 в 21.03.2024 22:56:55
+Information: AsyncMenuFor1257320586
+	Получена команда /download от пользователя 1257320586 в 21.03.2024 22:56:58
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery DownloadCsv от пользователя 1257320586 в 21.03.2024 22:56:59
+Information: AsyncMenuFor1257320586
+	Загрузка обработанного csv файла для пользователя 1257320586 прошла успешно
+Information: AsyncMenuFor1257320586
+	Получена команда /download от пользователя 1257320586 в 21.03.2024 22:57:15
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery DownloadJson от пользователя 1257320586 в 21.03.2024 22:57:16
+Information: AsyncMenuFor1257320586
+	Загрузка обработанного json файла для пользователя 1257320586 прошла успешно
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:21
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Critical: BotRunner
+	Критическая ошибка в HandlePollingErrorAsync в 21.03.2024 23:00:22
+Information: BotRunner
+	Start listening for @WifiParksBot at 28.08.2024 17:57:35
+Information: AsyncMenuFor1257320586
+	Получена команда /upload от пользователя 1257320586 в 28.08.2024 17:57:48
+Information: AsyncMenuFor1257320586
+	Получен CallbackQuery UploadCsv от пользователя 1257320586 в 28.08.2024 17:57:50
+Information: AsyncMenuFor1257320586
+	Получена команда /help от пользователя 1257320586 в 28.08.2024 17:57:55
+Warning: AsyncMenuFor1257320586
+	Пользователь 1257320586 не загрузил файл перед запросом на скачивание или обработку в 28.08.2024 17:58:08
